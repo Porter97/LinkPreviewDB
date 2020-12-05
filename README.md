@@ -1,4 +1,4 @@
-# InfiniteScroll
-Infinite Scroll picture application using Flask + React
+# Link Preview
+Link Preview with SQLite database and caching
 
-Check out the Medium article [here](https://medium.com/@spencerporter2/flask-react-infinite-scroll-1a56703432e9) for the tutorial!
+Check out the Medium article [here](https://medium.com/@spencerporter2/bytesize-performant-storage-with-flask-react-2d6d362ec13e) for the tutorial!
